@@ -1,0 +1,38 @@
+.nav {
+background-image: url('http://uniorchester.webarchiv.kit.edu/pics/geige_kurz.png');
+background-repeat: no-repeat;
+background-position: center top;
+width: 500px;
+height: 400px;
+padding-top: 50px;
+font-size: 1.2em;
+text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
+
+.nav div {
+width: 200px;
+height: 100px;
+vertical-align: middle;
+}
+
+.nav div a {
+color: black;
+font-family: 'Arial Black', Gadget, sans-serif;
+font-size: 1.5em;
+}
+
+.nav .left {
+float: left;
+text-align: right;
+}
+
+.nav .right {
+float: right;
+text-align: left;
+}
+
+.nav .middle {
+float: left;
+text-align: center;
+width: 500px;
+}
