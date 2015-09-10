@@ -9,9 +9,7 @@ $(document).ready(function()
 		$(e).html('<a href="' + $("a:contains('" + e.innerText + "')")[0].href + '">' + e.innerText + '</a>'); 
 	});
 
-	$("#pressestimmen-content").each(function(idx, e) {
-		
-		
+	$("#content .text").each(function(idx, e) {
 		
 		$.getJSON(basePath + "data/pressestimmen.json", function(data) {
 		  var html = "";
