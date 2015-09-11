@@ -15,12 +15,12 @@ $(document).ready(function () {
             $.each(data, function (key, val) {
                 html += "<p>";
 
-                var link = val.link;
+                var url = val.Url;
 
-                link = link.replace(/%resources%/g, basePath + "resources");
+                url = url.replace(/%resources%/g, basePath + "resources");
 
-                html += '<a href="' + link + '">' + val.title + '</a> ';
-                html += val.text;
+                html += '<a href="' + url + '">' + val.Title + '</a> ';
+                html += val.Text;
 
                 html += "</p>";
 
