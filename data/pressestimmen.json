@@ -1,282 +1,277 @@
-﻿{
-  "0": {
-    "text": " Reiner Hörgenuss - Dvorak-Abend mit dem Sinfonieorchester des KIT",
-    "title": "BNN, 22.06.2015",
-    "link": "/downloads/BNN-Bericht.22.6.2015.pdf"
+﻿[
+  {
+    "Title": "BNN, 22.06.2015",
+    "Url": "%resources%/BNN-Bericht.22.6.2015.pdf",
+    "Text": "Reiner Hörgenuss - Dvorak-Abend mit dem Sinfonieorchester des KIT"
   },
-  "1": {
-    "text": " Durchaus sinfonisch - KIT lud zu Kammerorchester-Konzert in Gerthsen-Hörsaal",
-    "title": "BNN, 11.05.2015",
-    "link": "/downloads/BNN-Besprechun-Kammerorchester-9__Mai_2015.pdf"
+  {
+    "Title": "BNN, 11.05.2015",
+    "Url": "%resources%/BNN-Besprechun-Kammerorchester-9__Mai_2015.pdf",
+    "Text": "Durchaus sinfonisch - KIT lud zu Kammerorchester-Konzert in Gerthsen-Hörsaal"
   },
-  "2": {
-    "text": " Jubel für zwei Dirigenten - KIT-Sinfonieorchester: Stimmführer Drewelius sprang für Köhnlein ein",
-    "title": "BNN, 16.02.2015",
-    "link": "/downloads/BNN_Bruckners_achte_Sinfonie.pdf"
+  {
+    "Title": "BNN, 16.02.2015",
+    "Url": "%resources%/BNN_Bruckners_achte_Sinfonie.pdf",
+    "Text": "Jubel für zwei Dirigenten - KIT-Sinfonieorchester: Stimmführer Drewelius sprang für Köhnlein ein"
   },
-  "3": {
-    "text": " Stilvoll gemeistert - Eindrucksvolles Konzert des KIT-Kammerorchesters",
-    "title": "BNN, 01.12.2014",
-    "link": "/downloads/BNN-Besprechung-1-12-2014.pdf"
+  {
+    "Title": "BNN, 01.12.2014",
+    "Url": "%resources%/BNN-Besprechung-1-12-2014.pdf",
+    "Text": "Stilvoll gemeistert - Eindrucksvolles Konzert des KIT-Kammerorchesters"
   },
-  "4": {
-    "text": " Heiteres und Ernstes an einem Abend; KIT-Sinfonieorchester und der Solist Takuhiro Murayama überzeugten mit Bernstein, Gershwin und Brahms",
-    "title": "BNN, 14.07.2014 ",
-    "link": "http: //www.uniorchester.de/bnn_14.07.14.pdf"
+  {
+    "Title": "BNN, 14.07.2014",
+    "Url": "http://uniorchester.webarchiv.kit.edu/bnn_14.07.14.pdf",
+    "Text": "Heiteres und Ernstes an einem Abend; KIT-Sinfonieorchester und der Solist Takuhiro Murayama überzeugten mit Bernstein, Gershwin und Brahms"
   },
-  "5": {
-    "text": "Begeistertes Publikum; Irina Loskova spielte mit dem KIT-Kammerorchester",
-    "title": "BNN, 12.04.2014 ",
-    "link": "http://www.uniorchester.de/bnn_12.04.14.pdf"
+  {
+    "Title": "BNN, 12.04.2014",
+    "Url": "http://uniorchester.webarchiv.kit.edu/bnn_12.04.14.pdf",
+    "Text": "Begeistertes Publikum; Irina Loskova spielte mit dem KIT-Kammerorchester"
   },
-  "6": {
-    "text": "Aus der Natur; Sinfonieorchester des KIT begeisterte im Konzerthaus",
-    "title": "BNN, 09.07.2013 ",
-    "link": "http://www.uniorchester.de/bnn_09.07.13.pdf"
+  {
+    "Title": "BNN, 09.07.2013",
+    "Url": "http://uniorchester.webarchiv.kit.edu/bnn_09.07.13.pdf",
+    "Text": "Aus der Natur; Sinfonieorchester des KIT begeisterte im Konzerthaus"
   },
-  "7": {
-    "text": "Heiterkeit und flinke Finger; Ein anregender Konzertabend: Das Kammer-Orchester des KIT spielte Strawinsky, Ravel und Beethoven",
-    "title": "BNN, 06.05.2013 ",
-    "link": "http://www.uniorchester.de/bnn_06.05.13.pdf"
+  {
+    "Title": "BNN, 06.05.2013",
+    "Url": "http://uniorchester.webarchiv.kit.edu/bnn_06.05.13.pdf",
+    "Text": "Heiterkeit und flinke Finger; Ein anregender Konzertabend: Das Kammer-Orchester des KIT spielte Strawinsky, Ravel und Beethoven"
   },
-  "8": {
-    "text": "Mut für Bruckner; Sinfonieorchester KIT",
-    "title": "BNN, 09.02.2013 ",
-    "link": "http://www.uniorchester.de/bnn_09.02.13.pdf"
+  {
+    "Title": "BNN, 09.02.2013",
+    "Url": "http://uniorchester.webarchiv.kit.edu/bnn_09.02.13.pdf",
+    "Text": "Mut für Bruckner; Sinfonieorchester KIT"
   },
-  "9": {
-    "text": "Große Leichtigkeit und Präsenz; Konzert des KIT-Kammerorchesters unter der Leitung von Dieter Köhnlein",
-    "title": "BNN, 24.11.2012 ",
-    "link": "http://www.uniorchester.de/bnn_24.11.12.pdf"
+  {
+    "Title": "BNN, 24.11.2012",
+    "Url": "http://uniorchester.webarchiv.kit.edu/bnn_24.11.12.pdf",
+    "Text": "Große Leichtigkeit und Präsenz; Konzert des KIT-Kammerorchesters unter der Leitung von Dieter Köhnlein"
   },
-  "10": {
-    "text": "Großes Aufgebot; Gemeinsames Konzert zweier KIT-Orchester",
-    "title": "BNN, 16.07.2012 ",
-    "link": "http://www.uniorchester.de/bnn_16.07.12.pdf"
+  {
+    "Title": "BNN, 16.07.2012",
+    "Url": "http://uniorchester.webarchiv.kit.edu/bnn_16.07.12.pdf",
+    "Text": "Großes Aufgebot; Gemeinsames Konzert zweier KIT-Orchester"
   },
-  "11": {
-    "text": "Optimistisch und opulent; KIT-Sinfonieorchester musizierte im Konzerthaus",
-    "title": "BNN, 20.02.2012 ",
-    "link": "http://www.uniorchester.de/bnn_20.02.12.pdf"
+  {
+    "Title": "BNN, 20.02.2012",
+    "Url": "http://uniorchester.webarchiv.kit.edu/bnn_20.02.12.pdf",
+    "Text": "Optimistisch und opulent; KIT-Sinfonieorchester musizierte im Konzerthaus"
   },
-  "12": {
-    "text": "Beethoven virtuos und spritzig; Dieter Köhnleins KIT-Kammerorchester und der junge Pianist Andrej Jussow",
-    "title": "BNN, 05.12.2011 ",
-    "link": "http://www.uniorchester.de/bnn_05.12.11.pdf"
+  {
+    "Title": "BNN, 05.12.2011",
+    "Url": "http://uniorchester.webarchiv.kit.edu/bnn_05.12.11.pdf",
+    "Text": "Beethoven virtuos und spritzig; Dieter Köhnleins KIT-Kammerorchester und der junge Pianist Andrej Jussow"
   },
-  "13": {
-    "text": "Hilf– und erfolgreich; KIT-Kammerorchester",
-    "title": "BNN, 25.10.2011 ",
-    "link": "http://www.uniorchester.de/bnn_25.10.11.pdf"
+  {
+    "Title": "BNN, 25.10.2011",
+    "Url": "http://uniorchester.webarchiv.kit.edu/bnn_25.10.11.pdf",
+    "Text": "Hilf– und erfolgreich; KIT-Kammerorchester"
   },
-  "14": {
-    "text": "Beethoven zum zweiten; KIT-Sinfonieorchester im Konzerthaus Karlsruhe",
-    "title": "BNN, 18.07.2011 ",
-    "link": "http://www.uniorchester.de/bnn_18.07.11.pdf"
+  {
+    "Title": "BNN, 18.07.2011",
+    "Url": "http://uniorchester.webarchiv.kit.edu/bnn_18.07.11.pdf",
+    "Text": "Beethoven zum zweiten; KIT-Sinfonieorchester im Konzerthaus Karlsruhe"
   },
-  "15": {
-    "text": "Zwischen reizvollen Gegenpolen; KIT Sinfonieorchester und der Pianist Andrej Jussow spielten im Konzerthaus Karlsruhe",
-    "title": "Pamina-magazin.de, 18.07.2011 ",
-    "link": "http://www.pamina-magazin.de/categories/05kritik/110718_KIT_Orchester.html"
+  {
+    "Title": "Pamina-magazin.de, 18.07.2011",
+    "Url": "http://www.pamina-magazin.de/categories/05kritik/110718_KIT_Orchester.html",
+    "Text": "Zwischen reizvollen Gegenpolen; KIT Sinfonieorchester und der Pianist Andrej Jussow spielten im Konzerthaus Karlsruhe"
   },
-  "16": {
-    "text": "Ensemble der Frische und Jugendlichkeit; Beachtlich gutes Zusammenspiel: Das Sinfonieorchester des KIT überzeugte mit Strauss und Mahler",
-    "title": "BNN, 04.03.2011 ",
-    "link": "http://www.uniorchester.de/bnn_04.03.11.pdf"
+  {
+    "Title": "BNN, 04.03.2011",
+    "Url": "http://uniorchester.webarchiv.kit.edu/bnn_04.03.11.pdf",
+    "Text": "Ensemble der Frische und Jugendlichkeit; Beachtlich gutes Zusammenspiel: Das Sinfonieorchester des KIT überzeugte mit Strauss und Mahler"
   },
-  "17": {
-    "text": "Wie ein Freudentaumel; Das Kammerorchester des KIT spielte im Gerthsen-Hörsaal",
-    "title": "BNN, 23.10.2010 ",
-    "link": "http://www.uniorchester.de/bnn_23.10.10.pdf"
+  {
+    "Title": "BNN, 23.10.2010",
+    "Url": "http://uniorchester.webarchiv.kit.edu/bnn_23.10.10.pdf",
+    "Text": "Wie ein Freudentaumel; Das Kammerorchester des KIT spielte im Gerthsen-Hörsaal"
   },
-  "18": {
-    "text": "Triumphale Rasanz und Formwillen; KIT-Sinfonieorchester und Klaviersolist Andrej Jussow im Konzerthaus",
-    "title": "BNN, 10.07.2010 ",
-    "link": "http://www.uniorchester.de/bnn_10.07.10.pdf"
+  {
+    "Title": "BNN, 10.07.2010",
+    "Url": "http://uniorchester.webarchiv.kit.edu/bnn_10.07.10.pdf",
+    "Text": "Triumphale Rasanz und Formwillen; KIT-Sinfonieorchester und Klaviersolist Andrej Jussow im Konzerthaus"
   },
-  "19": {
-    "text": "Ein einziges riesiges Streichinstrument; Sinfonieorchester am KIT bot im Konzerthaus Werke von Brahms und Bruckner",
-    "title": "BNN, 16.02.2010 ",
-    "link": "http://www.uniorchester.de/bnn_16.02.10.pdf"
+  {
+    "Title": "BNN, 16.02.2010",
+    "Url": "http://uniorchester.webarchiv.kit.edu/bnn_16.02.10.pdf",
+    "Text": "Ein einziges riesiges Streichinstrument; Sinfonieorchester am KIT bot im Konzerthaus Werke von Brahms und Bruckner"
   },
-  "20": {
-    "text": "Reizvoll und beachtlich; Zum Konzert des Kammerorchesters am KIT",
-    "title": "BNN, 02.12.2009 ",
-    "link": "http://www.uniorchester.de/bnn_02.12.09.pdf"
+  {
+    "Title": "BNN, 02.12.2009",
+    "Url": "http://uniorchester.webarchiv.kit.edu/bnn_02.12.09.pdf",
+    "Text": "Reizvoll und beachtlich; Zum Konzert des Kammerorchesters am KIT"
   },
-  "21": {
-    "text": "Virtuoser Leckerbissen; Konzert des Sinfonie-Orchesters an der Universität",
-    "title": "BNN, 15.07.2009 ",
-    "link": "http://www.uniorchester.de/bnn_15.07.09.pdf"
+  {
+    "Title": "BNN, 15.07.2009",
+    "Url": "http://uniorchester.webarchiv.kit.edu/bnn_15.07.09.pdf",
+    "Text": "Virtuoser Leckerbissen; Konzert des Sinfonie-Orchesters an der Universität"
   },
-  "22": {
-    "text": "Eindrucksvolle Leistung; Sinfonieorchester an der Universität spielte Mahler",
-    "title": "BNN, 23.02.2009 ",
-    "link": "http://www.uniorchester.de/bnn_23.02.09.pdf"
+  {
+    "Title": "BNN, 23.02.2009",
+    "Url": "http://uniorchester.webarchiv.kit.edu/bnn_23.02.09.pdf",
+    "Text": "Eindrucksvolle Leistung; Sinfonieorchester an der Universität spielte Mahler"
   },
-  "23": {
-    "text": "Beachtlicher Feinschliff; Konzert mit dem Kammerorchester der Universität",
-    "title": "BNN, 22.11.2008 ",
-    "link": "http://www.uniorchester.de/bnn_22.11.08.pdf"
+  {
+    "Title": "BNN, 22.11.2008",
+    "Url": "http://uniorchester.webarchiv.kit.edu/bnn_22.11.08.pdf",
+    "Text": "Beachtlicher Feinschliff; Konzert mit dem Kammerorchester der Universität"
   },
-  "24": {
-    "text": "Strahlende Posaunen; Konzert mit dem Sinfonieorchester der Universität",
-    "title": "BNN, 14.07.2008 ",
-    "link": "http://www.uniorchester.de/bnn_14.07.08.pdf"
+  {
+    "Title": "BNN, 14.07.2008",
+    "Url": "http://uniorchester.webarchiv.kit.edu/bnn_14.07.08.pdf",
+    "Text": "Strahlende Posaunen; Konzert mit dem Sinfonieorchester der Universität"
   },
-  "25": {
-    "text": ", 10.07.2008",
-    "title": "Pamina-magazin.de ",
-    "link": "http://www.pamina-magazin.de/"
+  {
+    "Title": "Pamina-magazin.de, 10.07.2008",
+    "Url": "http://www.pamina-magazin.de/categories/04portrait/080710_Dieter_Koehnlein.html",
+    "Text": "Die Menschen für die Musik begeistern"
   },
-  "26": {
-    "text": ", 10.07.2008",
-    "title": "Die Menschen für die Musik begeistern ",
-    "link": "http://www.pamina-magazin.de/categories/04portrait/080710_Dieter_Koehnlein.html"
+  {
+    "Title": "BNN, 04.02.2008",
+    "Url": "http://uniorchester.webarchiv.kit.edu/bnn_04.02.08.pdf",
+    "Text": "Präzise und temperamentvoll; Konzert des Sinfonieorchesters im Konzerthaus"
   },
-  "27": {
-    "text": "Präzise und temperamentvoll; Konzert des Sinfonieorchesters im Konzerthaus",
-    "title": "BNN, 04.02.2008 ",
-    "link": "http://www.uniorchester.de/bnn_04.02.08.pdf"
+  {
+    "Title": "BNN, 17.07.2007",
+    "Url": "http://uniorchester.webarchiv.kit.edu/bnn_17.07.07.html",
+    "Text": "Klangpracht und Dramatik; Konzert des Sinfonieorchesters im Gerthsenhörsaal"
   },
-  "28": {
-    "text": "Klangpracht und Dramatik; Konzert des Sinfonieorchesters im Gerthsenhörsaal",
-    "title": "BNN, 17.07.2007 ",
-    "link": "http://www.uniorchester.de/bnn_17.07.07.html"
+  {
+    "Title": "BNN, 23.04.2007",
+    "Url": "http://uniorchester.webarchiv.kit.edu/bnn_23.04.07.html",
+    "Text": "Vom Concerto grosso bis zu Erwin Grosse; Konzert des Kammerorchesters im Gerthsenhörsaal"
   },
-  "29": {
-    "text": "Vom Concerto grosso bis zu Erwin Grosse; Konzert des Kammerorchesters im Gerthsenhörsaal",
-    "title": "BNN, 23.04.2007 ",
-    "link": "http://www.uniorchester.de/bnn_23.04.07.html"
+  {
+    "Title": "BNN, 19.02.2007",
+    "Url": "http://uniorchester.webarchiv.kit.edu/bnn_19.02.07.html",
+    "Text": "Zur pianistischen Weltklasse vorgerückt; Konzert des Sinfonieorchesters im Konzerthaus"
   },
-  "30": {
-    "text": "Zur pianistischen Weltklasse vorgerückt; Konzert des Sinfonieorchesters im Konzerthaus",
-    "title": "BNN, 19.02.2007 ",
-    "link": "http://www.uniorchester.de/bnn_19.02.07.html"
+  {
+    "Title": "BNN, 28.07.2006",
+    "Url": "http://uniorchester.webarchiv.kit.edu/bnn_28.07.06.html",
+    "Text": "Physiker und Dirigent: Dieter Köhnlein wird 70 Jahre alt"
   },
-  "31": {
-    "text": "",
-    "title": "BNN, 28.07.2006 ",
-    "link": "http://www.uniorchester.de/bnn_28.07.06.html"
+  {
+    "Title": "BNN, 25.07.2006",
+    "Url": "http://uniorchester.webarchiv.kit.edu/bnn_25.07.06.html",
+    "Text": "Konzert des Sinfonieorchesters im Gerthsenhörsaal"
   },
-  "32": {
-    "text": "Konzert des Sinfonieorchesters im Gerthsenhörsaal",
-    "title": "BNN, 25.07.2006 ",
-    "link": "http://www.uniorchester.de/bnn_25.07.06.html"
+  {
+    "Title": "BNN, 04.05.2006",
+    "Url": "http://uniorchester.webarchiv.kit.edu/bnn_04.05.06.html",
+    "Text": "Konzert des Kammerorchesters im Gerthsenhörsaal"
   },
-  "33": {
-    "text": "Konzert des Kammerorchesters im Gerthsenhörsaal",
-    "title": "BNN, 04.05.2006 ",
-    "link": "http://www.uniorchester.de/bnn_04.05.06.html"
+  {
+    "Title": "BNN, 27.02.2006",
+    "Url": "http://uniorchester.webarchiv.kit.edu/bnn_27.02.06.html",
+    "Text": "Konzert des Sinfonieorchesters im Konzerthaus"
   },
-  "34": {
-    "text": "Konzert des Sinfonieorchesters im Konzerthaus",
-    "title": "BNN, 27.02.2006 ",
-    "link": "http://www.uniorchester.de/bnn_27.02.06.html"
+  {
+    "Title": "BNN, 14.02.2006",
+    "Url": "http://uniorchester.webarchiv.kit.edu/bnn_14.02.06.html",
+    "Text": "Konzert des Kammerorchesters und des Uni-Chors in der Christuskirche"
   },
-  "35": {
-    "text": "Konzert des Kammerorchesters und des Uni-Chors in der Christuskirche",
-    "title": "BNN, 14.02.2006 ",
-    "link": "http://www.uniorchester.de/bnn_14.02.06.html"
+  {
+    "Title": "BNN, 15.08.2005",
+    "Url": "http://uniorchester.webarchiv.kit.edu/bnn_15.08.05.html",
+    "Text": "Konzerte des Kammerorchesters in Tunesien"
   },
-  "36": {
-    "text": "Konzerte des Kammerorchesters in Tunesien",
-    "title": "BNN, 15.08.2005 ",
-    "link": "http://www.uniorchester.de/bnn_15.08.05.html"
+  {
+    "Title": "BNN, 29.06.2005",
+    "Url": "http://uniorchester.webarchiv.kit.edu/bnn_29.06.05.html",
+    "Text": "Konzert des Sinfonieorchesters im Gerthsenhörsaal"
   },
-  "37": {
-    "text": "Konzert des Sinfonieorchesters im Gerthsenhörsaal",
-    "title": "BNN, 29.06.2005 ",
-    "link": "http://www.uniorchester.de/bnn_29.06.05.html"
+  {
+    "Title": "BNN, 16.11.2004",
+    "Url": "http://uniorchester.webarchiv.kit.edu/bnn_16.11.04.html",
+    "Text": "Kirchenkonzert des Kammerorchesters und der Durlacher Kantorei"
   },
-  "38": {
-    "text": "Kirchenkonzert des Kammerorchesters und der Durlacher Kantorei",
-    "title": "BNN, 16.11.2004 ",
-    "link": "http://www.uniorchester.de/bnn_16.11.04.html"
+  {
+    "Title": "BNN, 05.07.2004",
+    "Url": "http://uniorchester.webarchiv.kit.edu/bnn_05.07.04.html",
+    "Text": "Konzert von Sinfonie- und Kammerorchesters im Gerthsenhörsaal"
   },
-  "39": {
-    "text": "Konzert von Sinfonie- und Kammerorchesters im Gerthsenhörsaal",
-    "title": "BNN, 05.07.2004 ",
-    "link": "http://www.uniorchester.de/bnn_05.07.04.html"
+  {
+    "Title": "BNN, 06.04.2004",
+    "Url": "http://uniorchester.webarchiv.kit.edu/bnn_06.04.04.html",
+    "Text": "Konzert des Kammerorchesters im Gerthsenhörsaal"
   },
-  "40": {
-    "text": "Konzert des Kammerorchesters im Gerthsenhörsaal",
-    "title": "BNN, 06.04.2004 ",
-    "link": "http://www.uniorchester.de/bnn_06.04.04.html"
+  {
+    "Title": "BNN, 23.03.2004",
+    "Url": "http://uniorchester.webarchiv.kit.edu/bnn_23.03.04.html",
+    "Text": "Konzert des Sinfonieorchesters im Konzerthaus"
   },
-  "41": {
-    "text": "Konzert des Sinfonieorchesters im Konzerthaus",
-    "title": "BNN, 23.03.2004 ",
-    "link": "http://www.uniorchester.de/bnn_23.03.04.html"
+  {
+    "Title": "BNN, 15.07.2003",
+    "Url": "http://uniorchester.webarchiv.kit.edu/bnn_15.07.03.html",
+    "Text": "Konzert des Sinfonieorchesters im Gerthsenhörsaal"
   },
-  "42": {
-    "text": "Konzert des Sinfonieorchesters im Gerthsenhörsaal",
-    "title": "BNN, 15.07.2003 ",
-    "link": "http://www.uniorchester.de/bnn_15.07.03.html"
+  {
+    "Title": "BNN, 03.03.2003",
+    "Url": "http://uniorchester.webarchiv.kit.edu/bnn_03.03.03.html",
+    "Text": "Konzert des Sinfonieorchesters im Konzerthaus"
   },
-  "43": {
-    "text": "Konzert des Sinfonieorchesters im Konzerthaus",
-    "title": "BNN, 03.03.2003 ",
-    "link": "http://www.uniorchester.de/bnn_03.03.03.html"
+  {
+    "Title": "BNN, 31.10.2002",
+    "Url": "http://uniorchester.webarchiv.kit.edu/bnn_31.10.02.html",
+    "Text": "Konzert des Kammerorchesters im Gerthsenhörsaal"
   },
-  "44": {
-    "text": "Konzert des Kammerorchesters im Gerthsenhörsaal",
-    "title": "BNN, 31.10.2002 ",
-    "link": "http://www.uniorchester.de/bnn_31.10.02.html"
+  {
+    "Title": "BNN, 08.07.2002",
+    "Url": "http://uniorchester.webarchiv.kit.edu/bnn_08.07.02.html",
+    "Text": "Konzert des Sinfonieorchesters im Konzerthaus"
   },
-  "45": {
-    "text": "Konzert des Sinfonieorchesters im Konzerthaus",
-    "title": "BNN, 08.07.2002 ",
-    "link": "http://www.uniorchester.de/bnn_08.07.02.html"
+  {
+    "Title": "BNN, 12.02.2002",
+    "Url": "http://uniorchester.webarchiv.kit.edu/bnn_12.02.02.html",
+    "Text": "Konzert des Sinfonieorchesters im Gerthsenhörsaal"
   },
-  "46": {
-    "text": "Konzert des Sinfonieorchesters im Gerthsenhörsaal",
-    "title": "BNN, 12.02.2002 ",
-    "link": "http://www.uniorchester.de/bnn_12.02.02.html"
+  {
+    "Title": "BNN, 28.11.2001",
+    "Url": "http://uniorchester.webarchiv.kit.edu/bnn_28.11.01.html",
+    "Text": "Kirchenkonzert des Kammerorchesters und der Durlacher Kantorei"
   },
-  "47": {
-    "text": "Kirchenkonzert des Kammerorchesters und der Durlacher Kantorei",
-    "title": "BNN, 28.11.2001 ",
-    "link": "http://www.uniorchester.de/bnn_28.11.01.html"
+  {
+    "Title": "BNN, 29.10.2001",
+    "Url": "http://uniorchester.webarchiv.kit.edu/bnn_29.10.01.html",
+    "Text": "Benefizkonzert des Kammerorchesters im Gartensaal des Karlsruher Schlosses"
   },
-  "48": {
-    "text": "Benefizkonzert des Kammerorchesters im Gartensaal des Karlsruher Schlosses",
-    "title": "BNN, 29.10.2001 ",
-    "link": "http://www.uniorchester.de/bnn_29.10.01.html"
+  {
+    "Title": "BNN, Herbst2001",
+    "Url": "http://uniorchester.webarchiv.kit.edu/bnn_herbst_01.html",
+    "Text": "Konzert des Kammerorchesters im SWR-Sendesaal"
   },
-  "49": {
-    "text": "Konzert des Kammerorchesters im SWR-Sendesaal",
-    "title": "BNN, Herbst2001 ",
-    "link": "http://www.uniorchester.de/bnn_herbst_01.html"
+  {
+    "Title": "UniKaTH, 1/2001",
+    "Url": "http://uniorchester.webarchiv.kit.edu/china.html",
+    "Text": "Das Sinfonieorchester zu Gast in China"
   },
-  "50": {
-    "text": "Das Sinfonieorchester zu Gast in China",
-    "title": "UniKaTH, 1/2001 ",
-    "link": "http://www.uniorchester.de/china.html"
+  {
+    "Title": "BNN, 21.11.2000",
+    "Url": "http://uniorchester.webarchiv.kit.edu/bnn_21.11.00.html",
+    "Text": "Benefizkonzert des Kammerorchesters im Stephanssaal"
   },
-  "51": {
-    "text": "Benefizkonzert des Kammerorchesters im Stephanssaal",
-    "title": "BNN, 21.11.2000 ",
-    "link": "http://www.uniorchester.de/bnn_21.11.00.html"
+  {
+    "Title": "BNN, 23.10.2000",
+    "Url": "http://uniorchester.webarchiv.kit.edu/bnn_23.10.00.html",
+    "Text": "Konzert des Sinfonieorchesters im Konzerthaus"
   },
-  "52": {
-    "text": "Konzert des Sinfonieorchesters im Konzerthaus",
-    "title": "BNN, 23.10.2000 ",
-    "link": "http://www.uniorchester.de/bnn_23.10.00.html"
+  {
+    "Title": "BNN, 17.05.2000",
+    "Url": "http://uniorchester.webarchiv.kit.edu/bnn_17.05.00.html",
+    "Text": "Konzert des Sinfonieorchesters im Gerthsenhörsaal"
   },
-  "53": {
-    "text": "Konzert des Sinfonieorchesters im Gerthsenhörsaal",
-    "title": "BNN, 17.05.2000 ",
-    "link": "http://www.uniorchester.de/bnn_17.05.00.html"
+  {
+    "Title": "BNN, 07.12.1999",
+    "Url": "http://uniorchester.webarchiv.kit.edu/bnn_07.12.99.html",
+    "Text": "Benefizkonzert des Kammerorchesters in der Durlacher Stadtkirche"
   },
-  "54": {
-    "text": "Benefizkonzert des Kammerorchesters in der Durlacher Stadtkirche",
-    "title": "BNN, 07.12.1999 ",
-    "link": "http://www.uniorchester.de/bnn_07.12.99.html"
-  },
-  "55": {
-    "text": "Faschingskonzert des Sinfonieorchesters im Konzerthaus",
-    "title": "BNN, 15.02.1999 ",
-    "link": "http://www.uniorchester.de/bnn_15.02.99.html"
+  {
+    "Title": "BNN, 15.02.1999",
+    "Url": "http://uniorchester.webarchiv.kit.edu/bnn_15.02.99.html",
+    "Text": "Faschingskonzert des Sinfonieorchesters im Konzerthaus"
   }
-}
+]
