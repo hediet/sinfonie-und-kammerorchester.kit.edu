@@ -10,6 +10,9 @@ $(document).ready(function () {
 
     $("#content .text").each(function (idx, e) {
 
+        if ($(e).text().indexOf("Pressestimmen") === -1)
+            return;
+
         $.getJSON(basePath + "data/pressestimmen.json", function (data) {
             var html = "";
             $.each(data, function (key, val) {
