@@ -1,5 +1,7 @@
 ﻿
-var basePath = "//sinfonie-und-kammerorchester-kit-edu.netlify.com/";
+
+var basePath = "//hediet.github.io/sinfonie-und-kammerorchester.kit.edu/";
+//var basePath = "//sinfonie-und-kammerorchester-kit-edu.netlify.com/";
 
 $('head').append('<link rel="stylesheet" href="' + basePath + 'style.css" type="text/css" />');
 
