@@ -1,0 +1,44 @@
+[
+	{
+		"Datum": "Dienstag, 31. Oktober 2017",
+		"Uhrzeit": "20 Uhr",
+		"Ort": "Gerthsen Hörsaal, Campus Süd",
+		"Orchester": "Kammerorchester des KIT",
+		"Leitung": "Dieter Köhnlein",
+		"Programm": [
+			{
+				"Komponist": "Martinu",
+				"Titel": "Streicher-Serenade"
+			},
+			{
+				"Komponist": "Wagner",
+				"Titel": "Siegfried-Idyll"
+			},
+			{
+				"Komponist": "Mendelssohn",
+				"Titel": "Reformations-Sinfonie"
+			}
+		]
+	},
+	{
+		"Datum": "Samstag, 10. Februar 2018",
+		"Uhrzeit": "20 Uhr",
+		"Ort": "Konzerthaus Karlsruhe",
+		"Orchester": "Kammerorchester des KIT",
+		"Leitung": "Dieter Köhnlein",
+		"Programm": [ 
+			{
+				"Komponist": "Schostakowitsch",
+				"Titel": "Festliche Ouvertüre"
+			},
+			{
+				"Komponist": "Beethoven",
+				"Titel": "7. Sinfonie"
+			},
+			{
+				"Komponist": "Gulda",
+				"Titel": "Cello-Konzert"
+			}
+		]
+	}
+]
