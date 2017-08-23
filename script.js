@@ -18,6 +18,8 @@ $(document).ready(function () {
 			var content = $("#content");
 			for (var i = 0; i < data.length; i++) {
 				var entry = data[i];
+				if (entry.Vergangen) continue;
+				
 				content.append("<h1>" + entry.Datum + ", " + entry.Uhrzeit + "</h1>");
 
 				content.append('<div class="firstline">' + entry.Ort + '</div>');
