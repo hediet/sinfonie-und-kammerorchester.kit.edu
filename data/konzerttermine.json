@@ -1,5 +1,6 @@
 [
 	{
+		"Vergangen": true,
 		"Datum": "Dienstag, 31. Oktober 2017",
 		"Uhrzeit": "20 Uhr",
 		"Ort": "Gerthsen Hörsaal, Campus Süd",
@@ -39,6 +40,27 @@
 			{
 				"Komponist": "Gulda",
 				"Titel": "Cello-Konzert"
+			}
+		]
+	},
+	{
+		"Datum": "Samstag, 21. April 2018",
+		"Uhrzeit": "20 Uhr",
+		"Ort": "Gerthsen Hörsaal, Campus Süd",
+		"Orchester": "Kammerorchester des KIT",
+		"Leitung": "Dieter Köhnlein",
+		"Programm": [ 
+			{
+				"Komponist": "Fauré",
+				"Titel": "Pelléas und Mélisande"
+			},
+			{
+				"Komponist": "Dvorák",
+				"Titel": "Streicherserenaden E-Dur op. 22  "
+			},
+			{
+				"Komponist": "Beethoven",
+				"Titel": "7. Sinfonie  A-Dur  op.92"
 			}
 		]
 	}
