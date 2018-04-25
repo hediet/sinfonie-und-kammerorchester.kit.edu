@@ -22,6 +22,7 @@
 		]
 	},
 	{
+		"Vergangen": true,
 		"Datum": "Samstag, 10. Februar 2018",
 		"Uhrzeit": "20 Uhr",
 		"Ort": "Konzerthaus Karlsruhe",
@@ -44,6 +45,7 @@
 		]
 	},
 	{
+		"Vergangen": true,
 		"Datum": "Samstag, 21. April 2018",
 		"Uhrzeit": "20 Uhr",
 		"Ort": "Gerthsen Hörsaal, Campus Süd",
@@ -61,6 +63,24 @@
 			{
 				"Komponist": "Beethoven",
 				"Titel": "7. Sinfonie  A-Dur  op.92"
+			}
+		]
+	},
+	{
+		"Datum": "Sonntag, 8. Juli 2018",
+		"Uhrzeit": "18 Uhr",
+		"Ort": "Gerthsen Hörsaal, Campus Süd",
+		"Orchester": "Sinfonieorchester des KIT",
+		"Leitung": "Dieter Köhnlein",
+		"Solist": "Andrej Jussow",
+		"Programm": [ 
+			{
+				"Komponist": "Rachmaninoff",
+				"Titel": "Klavierkonzert Nr. 3"
+			},
+			{
+				"Komponist": "Schostakowitsch",
+				"Titel": "10. Sinfonie"
 			}
 		]
 	}
