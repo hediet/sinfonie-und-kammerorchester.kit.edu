@@ -67,6 +67,7 @@
 		]
 	},
 	{
+		"Vergangen": true,
 		"Datum": "Sonntag, 8. Juli 2018",
 		"Uhrzeit": "18 Uhr",
 		"Ort": "Gerthsen Hörsaal, Campus Süd",
@@ -81,6 +82,48 @@
 			{
 				"Komponist": "Schostakowitsch",
 				"Titel": "10. Sinfonie"
+			}
+		]
+	},
+	{
+		"Vergangen": false,
+		"Datum": "Samstag, 24. November 2018",
+		"Uhrzeit": "20 Uhr",
+		"Ort": "Gerthsen Hörsaal, Campus Süd",
+		"Orchester": "Kammerorchester des KIT",
+		"Leitung": "Dieter Köhnlein",
+		"Solist": "Axel Haase, Violine",
+		"Programm": [ 
+			{
+				"Komponist": "Mozart",
+				"Titel": "Adagio und Fuge c-Moll"
+			},
+			{
+				"Komponist": "Hartmann",
+				"Titel": "Concerto funèbre für Violine und Orchester"
+			},
+			{
+				"Komponist": "Tschaikowski",
+				"Titel": "Souvenir de Florence"
+			}
+		]
+	},
+	{
+		"Vergangen": false,
+		"Datum": "Samstag, 2. März 2018",
+		"Uhrzeit": "20 Uhr",
+		"Ort": "Konzerthaus Karlsruhe",
+		"Orchester": "Sinfonieorchester des KIT",
+		"Leitung": "Dieter Köhnlein",
+		"Solist": "Andrej Jussow, Klavier",
+		"Programm": [ 
+			{
+				"Komponist": "Rachmaninoff",
+				"Titel": "Klavierkonzert Nr. 4"
+			},
+			{
+				"Komponist": "Dvorák",
+				"Titel": "Sinfonie aus der „Neuen Welt“"
 			}
 		]
 	}
