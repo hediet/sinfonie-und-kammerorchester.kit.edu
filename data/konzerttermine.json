@@ -110,7 +110,7 @@
 	},
 	{
 		"Vergangen": false,
-		"Datum": "Samstag, 2. März 2018",
+		"Datum": "Samstag, 2. März 2019",
 		"Uhrzeit": "20 Uhr",
 		"Ort": "Konzerthaus Karlsruhe",
 		"Orchester": "Sinfonieorchester des KIT",
@@ -118,12 +118,12 @@
 		"Solist": "Andrej Jussow, Klavier",
 		"Programm": [ 
 			{
-				"Komponist": "Rachmaninoff",
+				"Komponist": "Rachmaninov",
 				"Titel": "Klavierkonzert Nr. 4"
 			},
 			{
-				"Komponist": "Dvorák",
-				"Titel": "Sinfonie aus der „Neuen Welt“"
+				"Komponist": "Dvořák",
+				"Titel": "Sinfonie Nr. 9 „Aus der Neuen Welt“"
 			}
 		]
 	}
