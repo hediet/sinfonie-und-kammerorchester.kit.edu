@@ -109,7 +109,7 @@
 		]
 	},
 	{
-		"Vergangen": false,
+		"Vergangen": true,
 		"Datum": "Samstag, 2. März 2019",
 		"Uhrzeit": "20 Uhr",
 		"Ort": "Konzerthaus Karlsruhe",
@@ -124,6 +124,28 @@
 			{
 				"Komponist": "Dvořák",
 				"Titel": "Sinfonie Nr. 9 „Aus der Neuen Welt“"
+			}
+		]
+	},
+	{
+		"Vergangen": false,
+		"Datum": "Sonntag, 14. Juli 2019",
+		"Uhrzeit": "18 Uhr",
+		"Ort": "Gerthsen Hörsaal, Campus Süd",
+		"Orchester": "Sinfonieorchester des KIT",
+		"Leitung": "Tobias Drewelius",
+		"Programm": [ 
+			{
+				"Komponist": "Gustav Holst",
+				"Titel": "A Fugal Overture op. 40/1"
+			},
+			{
+				"Komponist": "Paul Hindemith",
+				"Titel": "Symphonic Metamorphosis on Themes by Carl Maria von Weber"
+			},
+			{
+				"Komponist": "Edward Elgar",
+				"Titel": "Enigma Variations op. 36"
 			}
 		]
 	}
