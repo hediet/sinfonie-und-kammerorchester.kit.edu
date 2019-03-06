@@ -134,10 +134,11 @@
 		"Ort": "Gerthsen Hörsaal, Campus Süd",
 		"Orchester": "Kammerorchester des KIT",
 		"Leitung": "Dieter Köhnlein",
+		"Solist": "François Salignat, Klavier",
 		"Programm": [ 
 			{
 				"Komponist": "Mozart",
-				"Titel": "Ouvertüre aus „Cosi fan tutte“"
+				"Titel": "Ouvertüre aus „Die Hochzeit des Figaro“"
 			},
 			{
 				"Komponist": "Mendelssohn",
