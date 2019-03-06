@@ -129,6 +129,28 @@
 	},
 	{
 		"Vergangen": false,
+		"Datum": "Samstag, 18. Mai 2019",
+		"Uhrzeit": "20 Uhr",
+		"Ort": "Gerthsen Hörsaal, Campus Süd",
+		"Orchester": "Kammerorchester des KIT",
+		"Leitung": "Dieter Köhnlein",
+		"Programm": [ 
+			{
+				"Komponist": "Mozart",
+				"Titel": "Ouvertüre aus „Cosi fan tutte“"
+			},
+			{
+				"Komponist": "Mendelssohn",
+				"Titel": "Klavierkonzert Nr. 2  d-Moll"
+			},
+			{
+				"Komponist": "Britten",
+				"Titel": "Variationen über ein Thema von Frank Bridge op. 10"
+			}
+		]
+	},
+	{
+		"Vergangen": false,
 		"Datum": "Sonntag, 14. Juli 2019",
 		"Uhrzeit": "18 Uhr",
 		"Ort": "Gerthsen Hörsaal, Campus Süd",
@@ -136,16 +158,35 @@
 		"Leitung": "Tobias Drewelius",
 		"Programm": [ 
 			{
-				"Komponist": "Gustav Holst",
+				"Komponist": "Holst",
 				"Titel": "A Fugal Overture op. 40/1"
 			},
 			{
-				"Komponist": "Paul Hindemith",
+				"Komponist": "Hindemith",
 				"Titel": "Symphonic Metamorphosis on Themes by Carl Maria von Weber"
 			},
 			{
-				"Komponist": "Edward Elgar",
+				"Komponist": "Elgar",
 				"Titel": "Enigma Variations op. 36"
+			}
+		]
+	},
+	{
+		"Vergangen": false,
+		"Datum": "Samstag, 22. Februar 2020",
+		"Uhrzeit": "20 Uhr",
+		"Ort": "Konzerthaus Karlsruhe",
+		"Orchester": "Kammerorchester des KIT",
+		"Leitung": "Dieter Köhnlein",
+		"Solist": "A. Breuninger (HfM) Violine, R. Garioud, Cello, A. Jussow, Klavier",
+		"Programm": [ 
+			{
+				"Komponist": "Beethoven",
+				"Titel": "Tripelkonzert op. 55"
+			},
+			{
+				"Komponist": "Beethoven",
+				"Titel": "Sinfonie Nr. 3 „Eroica“"
 			}
 		]
 	}
