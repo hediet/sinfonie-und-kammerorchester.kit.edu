@@ -190,5 +190,23 @@
 				"Titel": "Sinfonie Nr. 3 „Eroica“"
 			}
 		]
+	},
+	{
+		"Vergangen": false,
+		"Datum": "Sonntag, 8. März 2020",
+		"Uhrzeit": "18 Uhr",
+		"Ort": "Konzerthaus Karlsruhe",
+		"Orchester": "Sinfonieorchester des KIT",
+		"Leitung": "Tobias Drewelius",
+		"Programm": [ 
+			{
+				"Komponist": "Charles Ives",
+				"Titel": "The Unanswered Question"
+			},
+			{
+				"Komponist": "Gustav Mahler",
+				"Titel": "Sinfonie Nr. 6 a-moll"
+			}
+		]
 	}
 ]
