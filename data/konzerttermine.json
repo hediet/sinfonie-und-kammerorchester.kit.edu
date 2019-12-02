@@ -189,5 +189,27 @@
 				"Titel": "Sinfonie Nr. 6 a-moll"
 			}
 		]
+	},
+	{
+		"Vergangen": false,
+		"Datum": "Samstag, 18. Juli 2020",
+		"Uhrzeit": "20 Uhr",
+		"Ort": "Christuskirche Karlsruhe",
+		"Orchester": "Sinfonieorchester des KIT",
+		"Leitung": "Tobias Drewelius",
+		"Programm": [ 
+			
+		]
+	},
+	{
+		"Vergangen": false,
+		"Datum": "Samstag, 13. Februar 2021",
+		"Uhrzeit": "20 Uhr",
+		"Ort": "Konzerthaus Karlsruhe",
+		"Orchester": "Sinfonieorchester des KIT",
+		"Leitung": "Tobias Drewelius",
+		"Programm": [ 
+			
+		]
 	}
 ]
