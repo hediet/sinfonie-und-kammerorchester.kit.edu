@@ -174,25 +174,6 @@
 	},
 	{
 		"Vergangen": false,
-		"Datum": "Samstag, 22. Februar 2020",
-		"Uhrzeit": "20 Uhr",
-		"Ort": "Konzerthaus Karlsruhe",
-		"Orchester": "Kammerorchester des KIT",
-		"Leitung": "Dieter Köhnlein",
-		"Solist": "A. Breuninger (HfM) Violine, R. Garioud, Cello, A. Jussow, Klavier",
-		"Programm": [ 
-			{
-				"Komponist": "Beethoven",
-				"Titel": "Tripelkonzert op. 55"
-			},
-			{
-				"Komponist": "Beethoven",
-				"Titel": "Sinfonie Nr. 3 „Eroica“"
-			}
-		]
-	},
-	{
-		"Vergangen": false,
 		"Datum": "Sonntag, 8. März 2020",
 		"Uhrzeit": "18 Uhr",
 		"Ort": "Konzerthaus Karlsruhe",
