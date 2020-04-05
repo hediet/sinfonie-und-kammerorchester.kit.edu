@@ -1,6 +1,6 @@
 ﻿
 
-var basePath = "//sgraf812.github.io/sinfonie-und-kammerorchester.kit.edu/";
+var basePath = "//hediet.github.io/sinfonie-und-kammerorchester.kit.edu/";
 //var basePath = "//sinfonie-und-kammerorchester-kit-edu.netlify.com/";
 //var basePath = "//localhost:8080/";
 
