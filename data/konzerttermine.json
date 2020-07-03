@@ -192,41 +192,6 @@
 	},
 	{
 		"Vergangen": false,
-		"Datum": "Samstag, 18. Juli 2020",
-		"Uhrzeit": "20 Uhr",
-		"Ort": "Christuskirche Karlsruhe",
-		"Orchester": "Sinfonieorchester des KIT",
-		"Leitung": "Tobias Drewelius",
-		"Solist": "Peter Schleicher, Orgel",
-		"Programm": [ 
-			{
-				"Komponist": "Johann Sebastian Bach",
-				"Titel": "Passacaglia und Fuge c-moll BWV 582"
-			},
-			{
-				"Komponist": "Jean Sibelius",
-				"Titel": "Valse triste"
-			},
-			{
-				"Komponist": "Jón Leifs",
-				"Titel": "Konzert für Orgel und Orchester op. 7 (1930)"
-			},
-			{
-				"Komponist": "Dmitri Schostakowtisch",
-				"Titel": "Passacaglia aus \"Lady Macbeth von Mzensk\" (1934)"
-			},
-			{
-				"Komponist": "Ottorino Respighi",
-				"Titel": "Tre Corali de Johann Sebastian Bach"
-			},
-			{
-				"Komponist": "Johann Sebastian Bach",
-				"Titel": "Passacaglia und Fuge c-moll BWV 582 (bearbeitet für Orchester von Ottorino Respighi, 1930)"
-			}
-		]
-	},
-	{
-		"Vergangen": false,
 		"Datum": "Samstag, 13. Februar 2021",
 		"Uhrzeit": "20 Uhr",
 		"Ort": "Konzerthaus Karlsruhe",
